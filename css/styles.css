@@ -131,4 +131,7 @@ footer{
     #title-experience{
         padding-left: 42%;
     }
+    .experience{
+        max-width: 500px;
+    }
 }
